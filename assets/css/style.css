@@ -72,6 +72,14 @@
   color: #fff;
   margin: 0;
   height: 35vh;
+  width: 100%;
+  text-align: center;
+}
+.divider{
+  height: 30vh;
+  padding: 2em 0em;
+  width: 1%;
+  border-left: 3px dotted #fff;
 }
 .area{
   background-color:  rgb(122, 90, 8);
